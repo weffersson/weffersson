@@ -1,5 +1,4 @@
-# Olá! Eu sou Weffersson Lima  ![image](https://github.com/weffersson/weffersson/assets/121705618/a67071d8-7b87-4fa4-a956-834f459311ee)
-
+# Olá! Eu sou Weffersson Lima  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weffersson-lima-da-silva-864a69200/)
 [![Discord](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weffersson.lima/)
