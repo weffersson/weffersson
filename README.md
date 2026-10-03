@@ -1,82 +1,150 @@
-# Olá! Eu sou Weffersson Lima  
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weffersson-lima-da-silva-864a69200/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-discord)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/weffersson.lima/)
-
-![Weffersson GitHub stats](https://github-readme-stats.vercel.app/api?username=weffersson&show_icons=true&theme=dark&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weffersson&layout=compact&theme=dark&hide_border=true)](https://github.com/weffersson/github-readme-stats)
-
-## 🚀 Sobre Mim
-
-<p>
-<em><strong>Desenvolvedor Full Stack Júnior</strong> | Bacharelado em Engenharia de Software | apaixonado por <strong>IA Generativa</strong>, <strong>Performance Web</strong> e soluções escaláveis. Construindo aplicações modernas com foco em DX e UX.</em>
-</p>
-
-💻 **Projetos recentes**: E-commerce com Next.js 15 + Stripe | Chatbot IA com LangChain | Dashboard Analytics com React + shadcn/ui
-
-📚 **Atualmente aprendendo**: Next.js App Router, Server Components, WebAssembly, Supabase
-
-## 🛠️ Stack Atual (2026 Trends)
-
-### Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-FDF498?style=for-the-badge&logo=vite&logoColor=000000" />
+<!-- Banner/Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=000000:0a0a0a:1a1a1a&height=300&section=header&text=Weffersson%20Lima&fontSize=70&fontAlign=50&fontAlignY=40&desc=🔐%20Cybersecurity%20|%20Ethical%20Hacker%20|%20Security%20Researcher&descAlignY=55&descAlign=50&theme=night&animation=fadeIn" alt="Header" />
 </div>
 
-### Backend & Dados
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF4F?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3987F8?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<!-- Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🔐-Cybersecurity-00ff88?style=for-the-badge&logo=security&logoColor=00ff88&color=000000" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/💀-Ethical%20Hacker-ff0055?style=for-the-badge&logo=hack-the-box&logoColor=ff0055&color=000000" alt="Ethical Hacker" />
+  <img src="https://img.shields.io/badge/🛡️-Pentesting-00d4ff?style=for-the-badge&logo=shield&logoColor=00d4ff&color=000000" alt="Pentesting" />
+  <img src="https://img.shields.io/badge/🔍-Security%20Research-ffaa00?style=for-the-badge&logo=bugcrowd&logoColor=ffaa00&color=000000" alt="Security Research" />
+  <img src="https://img.shields.io/badge/📍-Brazil-009c3b?style=for-the-badge&logo=brazil&logoColor=ffffff&color=000000" alt="Brazil" />
 </div>
 
-### DevOps & Tools
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/tRPC-000000?style=for-the-badge&logo=trpc&logoColor=white" />
-<img src="https://img.shields.io/badge/Zod-FF5733?style=for-the-badge&logo=zod&logoColor=white" />
+<br />
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&color=00ff88&size=50&center=true&vCenter=true&width=800&height=60&lines=%3E%20Exploring%20the%20shadows%20of%20cyberspace;🔐%20Security%20is%20not%20a%20product%2C%20it's%20a%20process;💻%20Breaking%20things%20to%20make%20them%20stronger;🎯%20Always%20learning%2C%20always%20evolving" alt="Typing" />
 </div>
 
-### IA/ML (2026 Focus)
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+---
+
+## 👤 About Me
+
+```python
+class CyberSecurityEnthusiast:
+    def __init__(self):
+        self.name = "Weffersson Lima"
+        self.location = "Ceará, Brazil 🇧🇷"
+        self.focus = ["Cybersecurity", "Ethical Hacking", "Penetration Testing"]
+        self.mission = "Protecting digital assets by thinking like an attacker"
+        self.motto = "Know your enemy. Know yourself."
+    
+    def current_status(self):
+        return "🔍 Hunting vulnerabilities | 📚 Studying security | 🛡️ Building defenses"
+```
+
+---
+
+## 🎯 Focus Areas
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2040/2040600.png" width="60" alt="Pentest" /><br />
+        <b>Pentesting</b><br />
+        <sub>Web & Network</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2623/2623927.png" width="60" alt="Malware" /><br />
+        <b>Malware Analysis</b><br />
+        <sub>Reverse Engineering</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2933/2933116.png" width="60" alt="CTF" /><br />
+        <b>CTF Player</b><br />
+        <sub>TryHackMe & HTB</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103645.png" width="60" alt="Security" /><br />
+        <b>AppSec</b><br />
+        <sub>Secure Coding</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 🔥 Projetos Destaque
+---
 
-[![E-commerce Next.js](https://github-readme-stats.vercel.app/api/pin/?username=weffersson&repo=seu-ecommerce&theme=dark)](https://github.com/weffersson/seu-ecommerce)
-[![Chatbot IA](https://github-readme-stats.vercel.app/api/pin/?username=weffersson&repo=chatbot-ia&theme=dark)](https://github.com/weffersson/chatbot-ia)
+## 🛠️ Tools & Technologies
 
-## 📈 GitHub Streak
-![Snake animation](https://github.com/weffersson/weffersson/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
 
-## 🎯 Objetivos 2026
-- 🚀 Dominar Next.js 16 + Server Actions
-- 🤖 Integrar IA em todos os projetos (RAG, Agents)
-- ☁️ Deploy Serverless com Edge Functions
-- 🔒 Security First (Auth.js, Zod validation)
-- 📱 PWA + WebAssembly para performance nativa
-- 🌐 Contribuir para 5+ projetos open source
+  **Offensive Security**
+  
+  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94&color=000000)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00ff88&color=000000)
+  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=ff6600&color=000000)
+  ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff88&color=000000)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679AB&color=000000)
 
-## 📫 Me encontre em:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white)](https://wefferssonlima.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weffersson@email.com)
+  **Programming & Scripting**
+  
+  ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&color=000000)
+  ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25&color=000000)
+  ![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=5391FE&color=000000)
+  ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00758F&color=000000)
+
+  **Platforms**
+  
+  ![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=212C42&color=000000)
+  ![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&color=000000)
+  ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff&color=000000)
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WefferssonLima&theme=dark&hide_border=true&border=00ff88&background=000000&stroke=00ff88" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WefferssonLima&theme=dark&hide_border=true&border_radius=10&bg_color=000000&title_color=00ff88&text_color=ffffff&icon_color=00ff88&hide=stars,commits,prs,contribs" alt="GitHub Stats" />
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+  ![Certifications](https://img.shields.io/badge/📜-Certifications%20Loading...-00ff88?style=for-the-badge&color=000000)
+  
+  *Em breve: eJPT, CEH, OSCP, Security+*
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=000000" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D44638&color=000000" alt="Email" />
+  </a>
+  <a href="https://tryhackme.com/p/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=212C42&color=000000" alt="TryHackMe" />
+  </a>
+  <a href="https://app.hackthebox.com/profile/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&color=000000" alt="HackTheBox" />
+  </a>
+</div>
+
+---
+
+## 💬 Quote
+
+> *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*  
+> — **Gene Spafford**
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=weffersson&style=flat-square&color=blue" alt="visitors"/>
+  <img src="https://capsule-render.vercel.app/api?type=foot&color=000000:0a0a0a:1a1a1a&height=100&section=footer&text=🔐%20Stay%20Safe%20Out%20There&fontSize=40&fontAlign=50&fontAlignY=40&theme=night&animation=fadeIn" alt="Footer" />
 </div>
